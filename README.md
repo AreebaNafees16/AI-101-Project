@@ -52,12 +52,14 @@ Generates strong and random passwords based on user-defined criteria.
 A web-based BMI calculator built using Streamlit for quick and easy health checks.
 
 🔗 https://colab.research.google.com/drive/1Y1Fv_4c_McLK-lQMAaZLrrLL2gDQWtzG#scrollTo=3qUrB9KNaTYe&uniqifier=3
+🔗 https://bmi-calculator-16.streamlit.app/
 
 # 9️⃣ 🌐 Build a Python Website with Streamlit
 
 A project that showcases how to create a simple website using the Streamlit framework.
 
 🔗 https://colab.research.google.com/drive/1gN6xi0en9fDqqe-6c4tWvM1zmqR8P1UC#scrollTo=J9TuJj_c3cWW
+🔗 https://python-website56.streamlit.app/
 
 📌 GitHub Repository: Your_GitHub_Link
 
