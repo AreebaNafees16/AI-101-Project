@@ -61,9 +61,9 @@ A project that showcases how to create a simple website using the Streamlit fram
 
 🔗 https://colab.research.google.com/drive/1gN6xi0en9fDqqe-6c4tWvM1zmqR8P1UC#scrollTo=J9TuJj_c3cWW
 
-🔗 https://python-website56.streamlit.app/
+🔗 https://fitness-tracker56.streamlit.app/
 
-📌 GitHub Repository: Your_GitHub_Link
+📌 GitHub Repository: https://github.com/AreebaNafees16
 
 Explore the source code and contribute to the projects! 🚀
 
